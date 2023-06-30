@@ -1,0 +1,10 @@
+Functionalities of Product Main Page:
+
+1.Details of the Product
+I have some details of the particular products as their category with their MRP,Selling Price,Color,Brand,etc.
+
+2.Description of the Product
+I have also mention the short and long description of the product to know feactures of the product.
+
+3.Offers of the Product
+I have also specify the bank and other kinds of offers for the users to get some discounts.
